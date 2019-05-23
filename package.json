@@ -14,9 +14,12 @@
     "express": "^4.15.4",
     "express-handlebars": "^3.0.0",
     "express-session": "^1.15.5",
+    "install": "^0.12.2",
     "method-override": "^2.3.9",
     "moment": "^2.18.1",
-    "mongoose": "^4.11.12",
+    "mongodb": "^3.0.0",
+    "mongoose": "^5.5.10",
+    "npm": "^6.9.0",
     "passport": "^0.4.0",
     "passport-google-oauth20": "^1.0.0"
   }
